@@ -1,8 +1,8 @@
-## Hi, I'm Antonio but everyone knows me as Chatbot, I'm a Software DEV
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/AntonioHamilton/AntonioHamilton/master/assets/robot.gif" width="25">
+<img src="assets/robot.gif" width="100">
 </p>
+
+<p align="center"><font size="5"> Hi, I'm Antonio but everyone knows me as Chatbot, I'm a Software DEV </font></p>
 
 ---
 
