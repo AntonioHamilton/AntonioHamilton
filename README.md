@@ -45,4 +45,4 @@
 [<img height="25" src="https://img.shields.io/badge/Material-33adff.svg?&style=flat-square&logo=material-ui&logoColor=white"></img>](https://material-ui.com/pt/)
 [<img height="25" src="https://img.shields.io/badge/Bootstrap-9933CC.svg?&style=flat-square&logo=bootstrap&logoColor=white"></img>](https://getbootstrap.com)
 [<img height="25" src="https://img.shields.io/badge/MongoDB-4db33D.svg?&style=flat-square&logo=MongoDB&logoColor=white"></img>](https://docs.mongodb.com)
-[<img height="25" src="https://img.shields.io/badge/NextJS-000000.svg?&style=flat-square&logo=NextJS&logoColor=white"></img>](https://docs.mongodb.com)
+[<img height="25" src="https://img.shields.io/badge/NextJS-000000.svg?&style=flat-square&logo=NextJS&logoColor=white"></img>](https://nextjs.org)
