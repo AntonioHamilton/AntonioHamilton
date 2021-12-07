@@ -8,7 +8,7 @@
 
 **About me:**
 
-- 💼 Working at [ioasys](https://www.ioasys.com.br)
+- 💼 Working at [MercadoLivre](https://www.mercadolivre.com.br)
 - 🎓 Graduating in Information Systems at UFS
 - 💬 Ask me about anything, I am happy to help;
 - 🔧 I am always looking to learn new technologies;
