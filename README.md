@@ -8,30 +8,12 @@
 
 **About me:**
 
-- 💼 Working at [MercadoLivre](https://www.mercadolivre.com.br)
+- 💼 Working at [Flutter Brazil](https://www.flutter.com/)
 - 🎓 Graduating in Information Systems at UFS
 - 💬 Ask me about anything, I am happy to help;
 - 🔧 I am always looking to learn new technologies;
 - 📫 How to reach me: antoniohamilton.s.freitas@gmail.com;
 - 🌎 Live in Brazil
-
----
-
-<p align="center">
-  <a href="https://github.com/antoniohamilton/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniohamilton&layout=compact&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/antoniohamilton/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=antoniohamilton&show_icons=true&theme=dracula"
-    />
-  </a>
-</p>
 
 ---
 
